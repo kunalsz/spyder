@@ -1,0 +1,81 @@
+
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-layout {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 250px;
+  padding: 10px;
+  background-color: #333;
+  transition: background-color 0.3s ease;
+}
+
+.sidebar-item {
+  display: block;
+  width: 100%;
+  margin: 5px 0;
+  padding: 10px;
+  background-color: #444;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  transition: background-color 0.3s ease;
+}
+
+.sidebar-item a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+.sidebar-item:hover {
+  background-color: #555;
+}
+
+.tree-view {
+  flex: 1;
+  padding: 20px;
+  background-color: #222;
+  color: #fff;
+  height: calc(100vh - 60px);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark .sidebar {
+  background-color: #333;
+}
+
+.dark .sidebar-item {
+  background-color: #444;
+}
+
+.dark .sidebar-item:hover {
+  background-color: #555;
+}
+
+.dark .tree-view {
+  background-color: #222;
+  color: #fff;
+}
+
+.dark .box {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark .box-label {
+  color: #ccc;
+}
+
+.dark .box-children {
+  margin-left: 20px;
+  color: #aaa;
+}
+

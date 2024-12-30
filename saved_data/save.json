@@ -1,0 +1,271 @@
+{
+  "1": {
+    "path": "https://mis.iitism.ac.in",
+    "label":"mis.iitism.ac.in",
+    "subItems": {
+      "1.1": {
+        "path": "https://mis.iitism.ac.in/application",
+        "status": "301",
+        "size": "245",
+        "duration": "2ms",
+        "label": "application",
+        "subItems": {
+          "1.1.1": {
+            "path": "https://mis.iitism.ac.in/application/cache",
+            "status": "301",
+            "size": "252",
+            "duration": "2ms",
+            "label": "cache",
+            "subItems": {}
+          },
+          "1.1.2": {
+            "path": "https://mis.iitism.ac.in/application/config",
+            "status": "301",
+            "size": "253",
+            "duration": "3ms",
+            "label": "config",
+            "subItems": {}
+          },
+          "1.1.3": {
+            "path": "https://mis.iitism.ac.in/application/core",
+            "status": "301",
+            "size": "251",
+            "duration": "2ms",
+            "label": "core",
+            "subItems": {}
+          },
+          "1.1.4": {
+            "path": "https://mis.iitism.ac.in/application/errors",
+            "status": "301",
+            "size": "253",
+            "duration": "4ms",
+            "label": "errors",
+            "subItems": {}
+          },
+          "1.1.5": {
+            "path": "https://mis.iitism.ac.in/application/libraries",
+            "status": "301",
+            "size": "256",
+            "duration": "3ms",
+            "label": "libraries",
+            "subItems": {
+              "1.1.5.1": {
+                "path": "https://mis.iitism.ac.in/application/libraries/lib",
+                "status": "301",
+                "size": "260",
+                "duration": "2ms",
+                "label": "lib",
+                "subItems": {}
+              }
+            }
+          },
+          "1.1.6": {
+            "path": "https://mis.iitism.ac.in/application/views",
+            "status": "301",
+            "size": "252",
+            "duration": "2ms",
+            "label": "views",
+            "subItems": {
+              "1.1.6.1": {
+                "path": "https://mis.iitism.ac.in/application/views/common",
+                "status": "301",
+                "size": "259",
+                "duration": "3ms",
+                "label": "common",
+                "subItems": {}
+              },
+              "1.1.6.2": {
+                "path": "https://mis.iitism.ac.in/application/views/feedback",
+                "status": "301",
+                "size": "261",
+                "duration": "3ms",
+                "label": "feedback",
+                "subItems": {}
+              },
+              "1.1.6.3": {
+                "path": "https://mis.iitism.ac.in/application/views/information",
+                "status": "301",
+                "size": "264",
+                "duration": "4ms",
+                "label": "information",
+                "subItems": {}
+              },
+              "1.1.6.4": {
+                "path": "https://mis.iitism.ac.in/application/views/message",
+                "status": "301",
+                "size": "260",
+                "duration": "2ms",
+                "label": "message",
+                "subItems": {}
+              },
+              "1.1.6.5": {
+                "path": "https://mis.iitism.ac.in/application/views/pdf",
+                "status": "301",
+                "size": "256",
+                "duration": "3ms",
+                "label": "pdf",
+                "subItems": {}
+              },
+              "1.1.6.6": {
+                "path": "https://mis.iitism.ac.in/application/views/student",
+                "status": "301",
+                "size": "260",
+                "duration": "2ms",
+                "label": "student",
+                "subItems": {}
+              },
+              "1.1.6.7": {
+                "path": "https://mis.iitism.ac.in/application/views/swimming",
+                "status": "301",
+                "size": "261",
+                "duration": "5ms",
+                "label": "swimming",
+                "subItems": {}
+              },
+              "1.1.6.8": {
+                "path": "https://mis.iitism.ac.in/application/views/test",
+                "status": "301",
+                "size": "257",
+                "duration": "5ms",
+                "label": "test",
+                "subItems": {}
+              },
+              "1.1.6.9": {
+                "path": "https://mis.iitism.ac.in/application/views/upload",
+                "status": "301",
+                "size": "259",
+                "duration": "3ms",
+                "label": "upload",
+                "subItems": {}
+              }
+            }
+          }
+        }
+      },
+      "1.2": {
+        "path": "https://mis.iitism.ac.in/cgi-bin",
+        "status": "301",
+        "size": "241",
+        "duration": "2ms",
+        "label": "cgi-bin",
+        "subItems": {}
+      },
+      "1.3": {
+        "path": "https://mis.iitism.ac.in/phpmyadmin",
+        "status": "301",
+        "size": "244",
+        "duration": "3ms",
+        "label": "phpmyadmin",
+        "subItems": {
+          "1.3.1": {
+            "path": "https://mis.iitism.ac.in/phpmyadmin/doc",
+            "status": "301",
+            "size": "249",
+            "duration": "7ms",
+            "label": "doc",
+            "subItems": {}
+          },
+          "1.3.2": {
+            "path": "https://mis.iitism.ac.in/phpmyadmin/js",
+            "status": "301",
+            "size": "248",
+            "duration": "3ms",
+            "label": "js",
+            "subItems": {}
+          },
+          "1.3.3": {
+            "path": "https://mis.iitism.ac.in/phpmyadmin/sql",
+            "status": "301",
+            "size": "249",
+            "duration": "6ms",
+            "label": "sql",
+            "subItems": {}
+          }
+        }
+      },
+      "1.4": {
+        "path": "https://mis.iitism.ac.in/phpMyAdmin",
+        "status": "301",
+        "size": "244",
+        "duration": "4ms",
+        "label": "phpMyAdmin",
+        "subItems": {
+          "1.4.1": {
+            "path": "https://mis.iitism.ac.in/phpMyAdmin/doc",
+            "status": "301",
+            "size": "249",
+            "duration": "5ms",
+            "label": "doc",
+            "subItems": {}
+          },
+          "1.4.2": {
+            "path": "https://mis.iitism.ac.in/phpMyAdmin/js",
+            "status": "301",
+            "size": "248",
+            "duration": "2ms",
+            "label": "js",
+            "subItems": {}
+          },
+          "1.4.3": {
+            "path": "https://mis.iitism.ac.in/phpMyAdmin/sql",
+            "status": "301",
+            "size": "249",
+            "duration": "3ms",
+            "label": "sql",
+            "subItems": {}
+          }
+        }
+      },
+      "1.5": {
+        "path": "https://mis.iitism.ac.in/system",
+        "status": "301",
+        "size": "240",
+        "duration": "2ms",
+        "label": "system",
+        "subItems": {
+          "1.5.1": {
+            "path": "https://mis.iitism.ac.in/system/core",
+            "status": "301",
+            "size": "246",
+            "duration": "7ms",
+            "label": "core",
+            "subItems": {}
+          },
+          "1.5.2": {
+            "path": "https://mis.iitism.ac.in/system/database",
+            "status": "301",
+            "size": "250",
+            "duration": "9ms",
+            "label": "database",
+            "subItems": {}
+          },
+          "1.5.3": {
+            "path": "https://mis.iitism.ac.in/system/fonts",
+            "status": "301",
+            "size": "247",
+            "duration": "3ms",
+            "label": "fonts",
+            "subItems": {}
+          },
+          "1.5.4": {
+            "path": "https://mis.iitism.ac.in/system/libraries",
+            "status": "301",
+            "size": "251",
+            "duration": "21ms",
+            "label": "libraries",
+            "subItems": {
+              "1.5.4.1": {
+                "path": "https://mis.iitism.ac.in/system/libraries/javascript",
+                "status": "301",
+                "size": "262",
+                "duration": "3ms",
+                "label": "javascript",
+                "subItems": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

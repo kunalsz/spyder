@@ -1,0 +1,91 @@
+{
+  "http://testhtml5.vulnweb.com/#/popular": {
+    "actions": [
+      "/login"
+    ],
+    "params": [
+      [
+        "username",
+        "password"
+      ]
+    ]
+  },
+  "http://testhtml5.vulnweb.com/#myModal": {
+    "actions": [
+      "/login"
+    ],
+    "params": [
+      [
+        "username",
+        "password"
+      ]
+    ]
+  },
+  "http://testhtml5.vulnweb.com/#/latest": {
+    "actions": [
+      "/login"
+    ],
+    "params": [
+      [
+        "username",
+        "password"
+      ]
+    ]
+  },
+  "http://testhtml5.vulnweb.com/#/carousel": {
+    "actions": [
+      "/login"
+    ],
+    "params": [
+      [
+        "username",
+        "password"
+      ]
+    ]
+  },
+  "http://testhtml5.vulnweb.com/#/archive": {
+    "actions": [
+      "/login"
+    ],
+    "params": [
+      [
+        "username",
+        "password"
+      ]
+    ]
+  },
+  "http://testhtml5.vulnweb.com/#/about": {
+    "actions": [
+      "/login"
+    ],
+    "params": [
+      [
+        "username",
+        "password"
+      ]
+    ]
+  },
+  "http://testhtml5.vulnweb.com/#/contact": {
+    "actions": [
+      "/contact"
+    ],
+    "params": [
+      [
+        "firstName",
+        "lastName",
+        "address"
+      ]
+    ]
+  },
+  "http://testhtml5.vulnweb.com/#": {
+    "actions": [
+      "/login"
+    ],
+    "params": [
+      [
+        "username",
+        "password"
+      ]
+    ]
+  }
+}

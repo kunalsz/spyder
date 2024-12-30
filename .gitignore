@@ -1,0 +1,12 @@
+frontend/node_modules/
+test.py
+test.json
+model_data.json
+wordlists/subdomain_big.txt
+wordlists/subdomain_small.txt
+*.log
+.env
+functionalities/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
